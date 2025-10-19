@@ -2,12 +2,12 @@ A React-based Resume Builder Application that allows users to create, edit, and 
 
 <h1>Features</h1>
 
-Live Resume Preview — instantly see changes as you edit.
-Theme Customization — change color and font style easily.
-Editable Fields — click on text to edit directly in the preview.
-Skills Management — add, remove, or customize your own skills.
-Download as PDF — export your resume cleanly without edit buttons.
-Fully Responsive UI — works seamlessly on all screen sizes.
+<p>Live Resume Preview — instantly see changes as you edit.</p>
+<p>Theme Customization — change color and font style easily.</p>
+<p>Editable Fields — click on text to edit directly in the preview.</p>
+<p>Skills Management — add, remove, or customize your own skills.</p>
+<p>Download as PDF — export your resume cleanly without edit buttons.</p>
+<p>Fully Responsive UI — works seamlessly on all screen sizes.</p>
 
 <h1>Tech Stack</h1>
 
